@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<<<<<<< HEAD
-<h2> AWS-CCP: June 15th: changing once again to see rolling updates June20!!!  </h2>
+
+<h2> Changing for final time to see rolling updates June19 at 1:00AM!!!  </h2>
 =======
